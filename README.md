@@ -2,16 +2,22 @@
 
 ## Introducción
 
-- [ ] Definición de hibridación
+- [ ] Definición de hibridación - ¿Qué es la hibridación de medios? (brevemente para introducir el documento)
 
 ## Symphony
 
 - [ ] Descripción
-- [ ] ¿Es hibridación o multimedia? - Relación
+- [ ] ¿Es hibridación o multimedia? - ¿Cómo reconocer una de estas hibridaciones? ¿Cómo distinguir de otras (multimedia/remediación)?
+- [ ] Caso escogido (Cómo funciona y medios que incorpora)
+- [ ] ¿Qué tipo de hibridación se puede identificar en este caso? (según Manovich)
+- [ ] Valoraciones personales y bibliografía
 
 ## Headspace
 - [ ] Descripción
-- [ ] ¿Es hibridación o multimedia? - Relación
+- [ ] ¿Es hibridación o multimedia? - ¿Cómo reconocer una de estas hibridaciones? ¿Cómo distinguir de otras (multimedia/remediación)?
+- [ ] Caso escogido (Cómo funciona y medios que incorpora)
+- [ ] ¿Qué tipo de hibridación se puede identificar en este caso? (según Manovich)
+- [ ] Valoraciones personales y bibliografía
 
 ## Tareas:
 
