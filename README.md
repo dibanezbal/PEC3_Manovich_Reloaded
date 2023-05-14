@@ -1,4 +1,17 @@
-# PEC3_Manovich_Reloaded
+# PEC3: Visionando el futuro con las gafas de Manovich
+
+## Introducción
+
+- [ ] Definición de hibridación
+
+## Symphony
+
+- [ ] Descripción
+- [ ] ¿Es hibridación o multimedia? - Relación
+
+## Headspace
+- [ ] Descripción
+- [ ] ¿Es hibridación o multimedia? - Relación
 
 ## Tareas:
 
