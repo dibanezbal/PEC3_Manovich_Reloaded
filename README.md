@@ -1,18 +1,24 @@
 # PEC3: Visionando el futuro con las gafas de Manovich
 
-## Introducción
+Autor: David Ibáñez
+Fecha: 22/05/2023
 
-- [ ] Definición de hibridación - ¿Qué es la hibridación de medios? (brevemente para introducir el documento)
+## Planteamiento
 
-Si en la remediación vemos cómo hemos ido adaptando los medios físicos, materiales en el entorno digital, con la hibridación vemos una absorción de más de un medio, un paso más allá. 
+Si en la remediación vemos cómo hemos ido adaptando los medios físicos, materiales en el entorno digital, con la hibridación vemos un paso más allá, una absorción de más de un medio en un mismo medio. Ferrán Adell en su artículo "[Fundamentos y evolución de la multimedia](http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/)" define hibridación: 
 
-Ferrán Adell en su artículo "[Fundamentos y evolución de la multimedia](http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/)" define hibridación: _como una fusión entre los elementos que comparten las técnicas de software y las interfícies generando una experiencia nueva y coherente, que es diferente a la experimentación de los elementos por separado_.
+> Como una fusión entre los elementos que comparten las técnicas de
+> software y las interfícies generando una experiencia nueva y 
+> coherente, que es diferente a la experimentación de los elementos por
+> separado.
+> ***Ferran Adell, 2014***
 
-Por lo tanto - y después de darle varias vueltas al tema - me gustaría añadir mi interpretación de hibridación como una absorción de distintos medios reconocibles agrupándolos en uno final pero con sentido. (No como [la web de Homer Simpson](https://www.youtube.com/watch?v=P5MWN3TQeY4)). 
+Por lo tanto - y después de darle varias vueltas al tema - me gustaría añadir mi interpretación de hibridación como una absorción de distintos medios reconocibles agrupándolos en uno final, (pero espero que con algo más de sentido y coherencia que la web de Homer Simpson. 
 
-Si estamos viendo una película en una plataforma como Netflix, podemos activar subtítulos, y ver cómo el texto aparece y desaparece a medida que transcurre la historia y, además, podemos elegir el idioma. Incluso antes de comenzar a verla, podemos ver el tráiler y sugerencias de títulos similares. Algo que en el cine tradicional no tenemos, vemos primero los tráilers y después ya viene la tan esperada película.
+  [![Mejor página web del mundo](https://i.gifer.com/161C.gif)](https://youtu.be/P5MWN3TQeY4)
 
-A continuación hablaré sobre dos ejemplos en relación a los vídeos pero presentados de distintas maneras: Symphony y Headspace.
+
+A continuación traeré la definición de hibridación sobre dos ejemplos audiovisuales presentados de distintas maneras: Symphony y Headspace.
 
 ## Symphony
 - [x] Añadir fotos y vídeos
@@ -44,13 +50,7 @@ La primera parte de la experiencia sería un elemento multimedia, un vídeo
 
 Si partimos de que Manovich distingue entre dos tipos de medios, estaríamos hablando de un ejemplo de nuevos medios, al incluir mundos virtuales. Aunque una orquesta aparezca en el vídeo, además, la recreación virtual de algunos instrumentos permitiendo ver cómo son por dentro, se trata de una simulación de cómo sería el interior de, por ejemplo, un violín.
 
-Como comentaba anteriormente, aunque ambas partes de la experiencia son audiovisuales, hay una clara diferencia entre la experiencia para una persona que para otra. Si un vídeo o una película pueden generar diversas reacciones pero dentro de una misma línea (si es una comedia, según el humor de una persona, le hará un chiste más o menos gracia, pero la mayor parte de la sala se reirá), creo que un vídeo en 360º permite múltiples vivencias en un mismo escenario físico. 
-
-***Bibliografía/Webgrafía***
-
- - Manovich, L. (2013). El software toma el mando. Barcelona: Editorial UOC.
- - Compton’s Encyclopedia, Wikipedia: la enciclopedia libre. [Consultado en marzo 2023] Disponible en [https://es.wikipedia.org/wiki/Hibridaci%C3%B3n_de_medios](https://es.wikipedia.org/wiki/Hibridaci%C3%B3n_de_medios)
- - https://caixaforum.org/es/barcelona/symphony
+Como comentaba anteriormente, aunque ambas partes de la experiencia son audiovisuales, hay una clara diferencia entre la experiencia para una persona que para otra. Si un vídeo o una película pueden generar diversas reacciones pero dentro de una misma línea (si es una comedia, según el humor de una persona, le hará un chiste más o menos gracia, pero la mayor parte de la sala se reirá), creo que un vídeo en 360º permite múltiples vivencias en un mismo escenario físico.
 
 ## Headspace
 - [ ] Descripción
@@ -70,12 +70,13 @@ Symphony produce expectación pero no deja dirigir la orquesta o elegir dónde t
 2) Un nuevo tipo de medios computacionales sin precedentes físicos y que constituyen verdaderos “nuevos medios”, como por ejemplo los videojuegos, los mundos virtuales, la realidad virtual o los sitios web.*
 
 
-## Tareas:
+**Bibliografía y referencias**
 
-- [x]  Buscar dos ejemplo recientes de hibridación (no citados en el libro de Manovich): Symphony y Headspace
+- ADELL, Ferran. Remediación, multimedia e hibridación de los medios.  _Fundamentos y evolución de la multimedia_ . 17 de abril de 2014 [cosultado en mayo de 2023]. Disponible en:  [http://multimedia.uoc.edu/blogs/fem/es/](http://multimedia.uoc.edu/blogs/fem/es/)
+ - Manovich, L. (2013). El software toma el mando. Barcelona: Editorial UOC.
+ - Hibridación de medios, Wikipedia: la enciclopedia libre. [Consultado en mayo de 2023] Disponible en [https://es.wikipedia.org/wiki/Hibridaci%C3%B3n_de_medios](https://es.wikipedia.org/wiki/Hibridaci%C3%B3n_de_medios)
+ - https://caixaforum.org/es/barcelona/symphony
+<hr>
+Licencia: CC BY-SA 4.0. [Imágenes Web site home simpson GIF by Dagdara en Gifer](https://gifer.com/es/161C)
 
-- [x]  Crear una cuenta en Github ([https://github.com](https://github.com/)) donde crearemos un repositorio llamado PEC3_Manovich_Reloaded donde colocaremos el informe
 
- - [ ] Redactar el ensayo en un fichero readme.md (en formato MarkDown) describiendo esos ejemplos con "las gafas de Manovich" de una extensión aproximadamente de 500 palabras cada una
-
- - [ ] Incluir los enlaces y recursos multimedia necesarios dentro del repositorio
