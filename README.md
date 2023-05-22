@@ -23,7 +23,7 @@ A continuación traeré la definición de hibridación sobre dos ejemplos audiov
 
 Symphony es una experiencia inmersiva que, a través de la realidad virtual, te permite integrarte en medio de la Mahler Chamber Orchestra - dirigida por Gustavo Dudamel - y escuchar el resto de instrumentos como si fueses parte de ella. (Haciendo click en la siguiente imagen, puedes ver el Making of).
 
-[![Gente tocando el violín]([https://images.unsplash.com/photo-1465847899084-d164df4dedc6](https://images.unsplash.com/photo-1465847899084-d164df4dedc6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80))](https://www.youtube.com/watch?v=Ld0qgVyx-2A)
+![Gente tocando el violín]([https://images.unsplash.com/photo-1465847899084-d164df4dedc6](https://images.unsplash.com/photo-1465847899084-d164df4dedc6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80))]
 
 Primero hay un pase de un vídeo introductorio en una sala común y después, en otra sala, en butacas individuales, te colocan los visores de Realidad Virtual y comienza el visionado en 360º de la orquesta.
 
