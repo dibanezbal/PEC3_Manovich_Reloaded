@@ -21,7 +21,7 @@ A continuación traeré la definición de hibridación sobre dos ejemplos audiov
 
 ## Symphony
 
-Symphony es una experiencia inmersiva que, a través de la realidad virtual, te permite integrarte en medio de la Mahler Chamber Orchestra - dirigida por Gustavo Dudamel - y escuchar el resto de instrumentos como si fueses parte de ella. (Haciendo click en la siguiente imagen, puedes ver el Making of).
+Symphony es una experiencia inmersiva que, a través de la realidad virtual, te permite integrarte en medio de la Mahler Chamber Orchestra - dirigida por Gustavo Dudamel - y escuchar el resto de instrumentos como si fueses parte de ella.([Ver Making of.](https://www.youtube.com/watch?v=Ld0qgVyx-2A))
 
 ![Gente tocando el violín](https://images.unsplash.com/photo-1465847899084-d164df4dedc6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA==&auto=format&fit=crop&w=1170&q=80)
 
