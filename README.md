@@ -2,6 +2,7 @@
 # PEC3: Visionando el futuro con las gafas de Manovich
 
 Autor: David Ibáñez
+
 Fecha: 23/05/2023
 
 ## Planteamiento
