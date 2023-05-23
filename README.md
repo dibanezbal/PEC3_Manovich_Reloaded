@@ -22,6 +22,7 @@ A continuación intentaré demostrar la definición de hibridación y la distinc
 Symphony es una experiencia inmersiva que, a través de la realidad virtual, permite integrarte en medio de la Mahler Chamber Orchestra - dirigida por Gustavo Dudamel - y escuchar el resto de instrumentos como si fueses parte de ella. ([Ver Making of.](https://www.youtube.com/watch?v=Ld0qgVyx-2A))
 [
 ![Gente tocando el violín](https://images.unsplash.com/photo-1465847899084-d164df4dedc6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA==&auto=format&fit=crop&w=1170&q=80)](https://www.youtube.com/watch?v=o0DB3_T5eVE)
+*Haz click en la imagen para ver un tráiler.*
 
 La experiencia comienza con el pase de un vídeo a modo de introducción en una sala con bancos. Después, en otra sala con butacas individuales, te colocan los visores de Realidad Virtual (RV) y los auriculares, comenzando con un vídeo en 360º de la orquesta y alternando con imágenes en el interior de instrumentos.
 
@@ -43,9 +44,11 @@ Al vídeo en una pantalla en la pared estamos más acostumbrado, por la televisi
 
 ## Re-descubriendo la hibridación: Headspace
 
-Headspace es una serie de animación de la conocida productora y plataforma Netflix que nos invita a descubrir los beneficios de la meditación en nuestra vida y aprender técnicas de relajación. Incluye un capítulo especial interactivo, a base de ilustraciones, con el que podremos elegir si queremos relajarnos, meditar o dormir mejor, incluso poder decidir según el tiempo que tengamos disponible o le queramos dedicar. 
+Headspace es una serie de animación de la conocida productora y plataforma Netflix que nos invita a descubrir los beneficios de la meditación en nuestra vida y aprender técnicas de relajación. Incluye un capítulo especial interactivo, a base de ilustraciones, con el que podremos elegir si queremos relajarnos, meditar o dormir mejor, incluso poder decidir según el tiempo que tengamos disponible o le queramos dedicar.
+
 [
 ![enter image description here](https://images.unsplash.com/photo-1617791160536-598cf32026fb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA==&auto=format&fit=crop&w=1064&q=80)](https://www.youtube.com/watch?v=UGYg6E8OwzI&t=15s)
+*Haz click en la imagen para ver un tráiler.*
 
 Unos segundos después de empezar a reproducir el vídeo de introducción, te preguntan directamente por tu objetivo y te dan tres opciones a elegir. Después, te preguntan cuánto tiempo tienes 3, 5 o 10 minutos. Si no eliges una opción cuando preguntan, la animación continúa igualmente. Además, gracias a sus algoritmos, identifica si ya has entrado más veces y te preguntará qué quieres realizar a continuación.
 
